@@ -4,7 +4,7 @@
         "location"
     ],
     "companyName": "daniel.rusche@icloud.com",
-    "longName": "learnIT",
+    "longName": "  PebbleGPSview",
     "projectType": "simplyjs",
     "resources": {
         "media": [
@@ -26,10 +26,10 @@
             }
         ]
     },
-    "shortName": "learnIT",
+    "shortName": "  PebbleGPSview",
     "uuid": "299c7183-daa5-4b81-803c-bb52f1a6c227",
     "versionCode": 1,
-    "versionLabel": "1.0",
+    "versionLabel": "0.1",
     "watchapp": {
         "watchface": false
     }
