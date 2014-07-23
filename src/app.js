@@ -8,6 +8,8 @@ navigator.geolocation.getCurrentPosition(function(pos) {
   var lon_d = parseInt(lon[0]);
   var lon_ht = parseInt("0."+lon[1]);
   var lon_h = (lon_ht*60).substring(0,3);
-  simply.setText({ title:'GeoPosition:' }, true);
-  simply.text({ body:lat_d+"° "+lat_h+"\n"+lon_d+"° "+lon_h });
+  
+  simply.setText({ body: lat+"\n"+lon+"\n"+lat_d+" "+lon_d+"\n"+lat_ht+"\n"+lat_h+"\n"+lon_ht+"\n"+lon_h });
+  /*simply.setText({ title:'GeoPosition:' }, true);
+  simply.text({ body:lat_d+"° "+lat_h+"\n"+lon_d+"° "+lon_h });*/
 });
