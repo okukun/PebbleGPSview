@@ -1,5 +1,3 @@
-console.log('Simply.js Geo');
-
 navigator.geolocation.getCurrentPosition(function(pos) {
   var coords = pos.coords;
   var lat = coords.latitude.toString().split(".");
