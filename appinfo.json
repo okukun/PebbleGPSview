@@ -4,7 +4,7 @@
         "location"
     ],
     "companyName": "daniel.rusche@icloud.com",
-    "longName": "  PebbleGPSview",
+    "longName": "pGPSview",
     "projectType": "simplyjs",
     "resources": {
         "media": [
@@ -26,7 +26,7 @@
             }
         ]
     },
-    "shortName": "  PebbleGPSview",
+    "shortName": "pGPSview",
     "uuid": "299c7183-daa5-4b81-803c-bb52f1a6c227",
     "versionCode": 1,
     "versionLabel": "0.1",
